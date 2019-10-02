@@ -1760,7 +1760,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.inner {
-				max-width: 90%;
+				max-width: 95%;
 			}
 
 		}
@@ -1768,7 +1768,7 @@
 		@media screen and (max-width: 480px) {
 
 			.inner {
-				max-width: 85%;
+				max-width: 95%;
 			}
 
 		}
@@ -1818,7 +1818,7 @@
 			}
 
 			section.wrapper.style1 h3, article.wrapper.style1 h3 {
-				color: #FFF;
+				color: #5385c1;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -2934,7 +2934,7 @@
 
 	#banner {
 		padding: 12em 0 10em 0;
-		background-image: url('../../images/BGs/BG3.jpg');
+		background-image: url('../../Images/BGs/BG3.jpg');
 		background-size: cover;
 		background-position: top;
 		background-attachment: fixed;
